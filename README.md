@@ -1,16 +1,21 @@
-## Hi there 👋
+# Abdelaziz Ouedghiri
 
-<!--
-**abdel-oue/abdel-oue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build automation systems and backend tools for businesses.
 
-Here are some ideas to get you started:
+I design and develop solutions that reduce manual work, improve workflows,
+and connect systems using APIs and databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Dynaut** – Automation services for businesses  
+  → process automation, custom workflows, backend logic  
+  https://www.dynaut.com
+
+- **Transinaut** *(ongoing)* – Trade & document automation platform (
+  → data processing, validation, and transformation  
+  https://www.transinaut.com
+  
+## Focus Areas
+- Business process automation
+- Backend architecture
+- Data processing & validation
+- Building tools used by real cl
